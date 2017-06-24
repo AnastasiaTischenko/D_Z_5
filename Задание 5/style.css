@@ -1,0 +1,167 @@
+.fullwrap {
+	height: 1550px;
+	width: 650px;
+	background-color: #d1d1d1;;
+	padding: 55px;
+	padding-bottom: 110px;
+}
+
+.header{
+	height: 150px;
+	width: 98.5%;
+
+}
+.doc.ua{
+	width: 650px;
+}
+
+img{
+ 	/*height:100%;*/
+ 	width: 100%;
+    height: 100%;
+}
+
+.main{
+	display: inline-block;
+	width: 98.5%;
+	height: 1370px;
+	background-color: #fff;
+	font-family: Tahoma, sans-serif;
+	font-size: 16px;
+	line-height: 150%;
+}
+
+.information{
+	width: 550px;
+	height: 1350px;
+    margin: auto;
+}
+.friend{
+	text-align: center;
+}
+.text1{
+	margin-top: 11px;
+    padding: 22px 2px;
+}
+.mlh1{
+	line-height: 55px;
+}
+.mlh2{
+	line-height: 15px;
+}
+
+
+/*img{
+	width: 260px;
+	height: 216px;
+
+}*/
+.block1 {
+	width: 550px;
+	height: 360px;
+}
+
+.pikch{
+	width: 260px;
+	height: 216px;
+}
+.stomat{
+	width: 260px;
+	height: 355px;
+	/*background-color: coral;*/
+	line-height: 130%;
+	display: inline-block;
+	float: right;
+}
+
+.uzi {
+	width: 260px;
+	height: 355px;
+	/*background-color: coral;*/
+	line-height: 130%;
+	display: inline-block;
+	float: left;
+}
+
+.booking{
+	width: 258px;
+	height: 40px;
+	background-color: #cf5b4e;
+	color: white;
+	margin-top: 30px;
+	font-size: 15px;
+}
+button{
+	border: 0;
+	border-radius: 5px;
+}
+
+.pikch2{
+	height: 210px;
+	width: 160px;
+}
+
+.block2 {
+	height: 380px;
+	width: 550px;
+	margin-top: 25px;
+	display: inline-block;
+}
+.cardiolog 
+{
+	height: 380px;
+	width: 160px;
+	/*background-color: coral;*/
+	display: inline-block;
+	float: left;
+}
+.nevrol 
+{
+	height: 380px;
+	width: 160px;
+	/*background-color: coral;*/
+	display: inline-block;
+	margin-left: 35px;
+}
+.ginekol{
+	height: 380px;
+	width: 160px;
+	/*background-color: coral;*/
+	display: inline-block;
+	float: right;
+}
+.booking1{
+	width: 160px;
+	height: 40px;
+	background-color: #cf5b4e;
+	color: white;
+	font-size: 15px;
+}
+.text2{
+	line-height: 150%;
+    padding: 7px 2px;
+}
+.mh3{
+	line-height: 20px;
+}
+
+.clearfix{
+	clear: both;
+}
+.like{
+	height: 40px;
+	width: 540px;
+	background-color: #cf5b4e;
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	margin-top: 30px;
+	line-height: 90%;
+}
+.ets{
+	color: #fff;
+	text-align: center;
+    font-size: 13px;
+    line-height: 170%;
+    margin-top: 45px;
+}
